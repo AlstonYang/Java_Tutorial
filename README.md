@@ -3,12 +3,12 @@ Instructor: Jennifer, Yi-Ling Lin<br>
 Text: JAVA for everyone (Late Objects) Second edition<br> 
 TA: Alston, Ren-Han Yang
 
+Description
+--
+The course for MIS majors, designed for students with little or no programming experience.  Emphasizes basic principles and concepts of object-oriented programming using JAVA.  Topics include classes, interfaces, operators, program control, arrays, testing, debugging, inheritance, and polymorphism; Techniques for simplifying the programming process and improving code quality; Features activity-based learning with ample opportunities to implement interesting programs.
 
-
-Description: 
-First programming course for MIS majors, designed for students with little or no programming experience.  Emphasizes basic principles and concepts of object-oriented programming using JAVA.  Topics include classes, interfaces, operators, program control, arrays, testing, debugging, inheritance, and polymorphism; Techniques for simplifying the programming process and improving code quality; Features activity-based learning with ample opportunities to implement interesting programs.
-
-Objectives: 
+Objectives
+--
 Upon successful completion, the student will be able to do the following:
 •	Employ a ‘divide and conquer’ problem-solving strategy to breakdown a complex programming assignment into a series of simpler tasks. 
 •	Understand and make proper use of core programming concepts such as data types, operators, and control structures in Java
