@@ -7,7 +7,7 @@ Description
 --
 The course for MIS majors, designed for students with little or no programming experience.  Emphasizes basic principles and concepts of object-oriented programming using JAVA.  Topics include classes, interfaces, operators, program control, arrays, testing, debugging, inheritance, and polymorphism; Techniques for simplifying the programming process and improving code quality; Features activity-based learning with ample opportunities to implement interesting programs.
 
-Objectives🤶🏻
+Objectives
 --
 Upon successful completion, the student will be able to do the following:
 •	Employ a ‘divide and conquer’ problem-solving strategy to breakdown a complex programming assignment into a series of simpler tasks. 
@@ -19,5 +19,10 @@ Upon successful completion, the student will be able to do the following:
 
 HW
 --
+| Assignment | Topic | 
+|:-------:|:-----:|
+| 左1   |  中1  |  
+| 左2   |  中2  | 
+| 左3   |  中3  |  
 
 
