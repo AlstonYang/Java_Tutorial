@@ -21,8 +21,21 @@ HW
 --
 | Assignment | Topic | 
 |:-------:|:-----:|
-| Lab1|  中1  |  
-| 左2   |  中2  | 
-| 左3   |  中3  |  
+| Lab1| Basic instructions|  
+| Lab2|  Data type | 
+| HW1| Application questions  | 
+| Lab3| Decision  |  
+| Lab4| Loops  |  
+| HW2| Application questions  |  
+| Lab5|  Methods  | 
+| Lab6|  Objects and classes  |  
+| HW3| Application questions  |  
+| Lab7|  Array and ArrayList  | 
+| Lab8|  Input/Output And Exception Handling  | 
+| HW4| Application questions  | 
+| Lab9|  Inheritance  |  
+| Lab10|  Polymorphism  | 
+| HW5| Application questions  | 
+| Lab11|  Interface  | 
 
 
