@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"lab.practice","c":"Fruit","l":"Fruit(String, double, ArrayList<Double>)","url":"%3Cinit%3E(java.lang.String,double,java.util.ArrayList)"},{"p":"lab.practice","c":"Fruit","l":"getName()"},{"p":"lab.practice","c":"Fruit","l":"getPrice()"},{"p":"lab.practice","c":"Fruit","l":"getSales()"}]
