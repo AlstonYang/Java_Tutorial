@@ -13,6 +13,7 @@ public class Company {
 		rankingValues = new ArrayList<Double>();
 		this.analyzer = analyzer;
 	}
+	
 
 	public void add(Object object) {
 
