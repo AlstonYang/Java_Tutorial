@@ -30,10 +30,10 @@ public class Tester {
 		
 		frame.setTitle("Depreciation Expense Calculator");
 		
-		frame.setLayout(new GridLayout(4,1));
-		frame.add(yearLabel);
-		frame.add(expenseLabel);
-		frame.add(bookValueLabel);
+//		frame.setLayout(new GridLayout(4,1));
+//		frame.add(yearLabel);
+//		frame.add(expenseLabel);
+//		frame.add(bookValueLabel);
 		frame.add(button);
 //		
 		
@@ -44,13 +44,13 @@ public class Tester {
 			
 			public void actionPerformed(ActionEvent e) {
 
-				yearLabel.setText(String.format("Year: %d", currentYear+=1));
-				expenseLabel.setText(String.format("Total depreciation expense: %.2f", company.getDepreciationExp()));
-				bookValueLabel.setText(String.format("Book value of fixed assets: %.2f", company.getTotalBookValue()));
+//				yearLabel.setText(String.format("Year: %d", currentYear+=1));
+//				expenseLabel.setText(String.format("Total depreciation expense: %.2f", company.getDepreciationExp()));
+//				bookValueLabel.setText(String.format("Book value of fixed assets: %.2f", company.getTotalBookValue()));
 //				
-//				System.out.printf("Year: %d\n", currentYear+=1);
-//				System.out.printf("Total depreciation expense: %.2f\n", company.getDepreciationExp());
-//				System.out.printf("Book value of fixed assets : %.2f\n\n", company.getTotalBookValue());
+				System.out.printf("Year: %d\n", currentYear+=1);
+				System.out.printf("Total depreciation expense: %.2f\n", company.getDepreciationExp());
+				System.out.printf("Book value of fixed assets : %.2f\n\n", company.getTotalBookValue());
 			}
 		}
 		
